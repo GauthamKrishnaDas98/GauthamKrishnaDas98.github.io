@@ -1,2 +1,5 @@
-
+titles_fromheading:
+enabled: true
+strip_title: true
+collections: true
 theme: jekyll-theme-cayman
