@@ -3,7 +3,7 @@
 This Power BI project focuses on analyzing healthcare data to derive meaningful insights and enhance decision-making processes in the healthcare domain.
 # Healthcare Analysis Power BI Project
 
-![Project Image](https://github.com/GauthamKrishnaDas98/IMAGES/blob/main/IMAGE/BACKGROUND.jpg)
+![Project Image](https://github.com/GauthamKrishnaDas98/IMAGES/blob/main/IMAGE/BACKGROUND.JPG)
 
 
 ## Project Highlights
