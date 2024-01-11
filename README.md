@@ -1,4 +1,3 @@
-# Gautham's Portfolio
 ## [PROJECT 1: Healthcare-Analysis](https://github.com/GauthamKrishnaDas98/Healthcare-Analysis/tree/main)
 This Power BI project focuses on analyzing healthcare data to derive meaningful insights and enhance decision-making processes in the healthcare domain.
 # Healthcare Analysis Power BI Project
