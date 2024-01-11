@@ -1,5 +1,2 @@
-titles_from_headings:
-enabled: true
-strip_title: true
-collections: true
+title: [Gautham's Portfolio]
 theme: jekyll-theme-cayman
