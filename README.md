@@ -11,4 +11,11 @@ This Power BI project focuses on analyzing healthcare data to derive meaningful 
 - **Tools Used:** Power BI, SQL
 - [Data Source](https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data)
 
-## [PROJECT 2: Indian Census Analysis](https://github.com/GauthamKrishnaDas98/Healthcare-Analysis/tree/main)
+## [PROJECT 2: Indian Census Analysis](https://github.com/GauthamKrishnaDas98/Indian-Census-2011-Analysis)
+This project that analyzes the Indian Census 2011 dataset. The project focuses on extracting valuable insights related to demographic factors, literacy rates, growth rates, sex ratios, and population density across different states in India.
+
+## Project Highlights
+-**objective:** To Extract insights regarding Literacy Landscape,Growth Rate Dynamics,Sex Ratio Story,Top and Bottom Performers,Population Density Insights using Indian census 2011 datasets
+-**Tools Used:** SQL
+-**Data Source:** [https://www.census2011.co.in/district.php]
+                  [https://www.census2011.co.in/literacy.php]
