@@ -19,7 +19,7 @@ This project that analyzes the Indian Census 2011 dataset. The project focuses o
 
 
 ## Project Highlights
--**objective:** To Extract insights regarding Literacy Landscape,Growth Rate Dynamics,Sex Ratio Story,Top and Bottom Performers,Population Density Insights using Indian census 2011 datasets
--**Tools Used:** SQL
--**Data Source:** [https://www.census2011.co.in/district.php]
+- **objective:** To Extract insights regarding Literacy Landscape,Growth Rate Dynamics,Sex Ratio Story,Top and Bottom Performers,Population Density Insights using Indian census 2011 datasets
+- **Tools Used:** SQL
+- **Data Source:** [https://www.census2011.co.in/district.php]
                   [https://www.census2011.co.in/literacy.php]
